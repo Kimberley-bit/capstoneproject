@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project by Kimberley
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Suicide Detection in Social Media Posts by Kimberley
 
 *Note: I was unable to upload all of the datasets that I have used in these notebooks onto github because of how big the size of the file was. But if you have any questions feel free to reach out to me thank you :)*
 
@@ -14,12 +14,6 @@ This project aims to apply machine learning abilities in particular text classif
 
 Reddit and Twitter datasets were combined to form a final dataset. 
 This final dataset has 4,000 rows and 2 columns (Text, Class).
-
-## Limitations ##
-The first limitation is that It is not possible to generalise all human behaviour into simple lines of code. Hence this model won’t be able to capture every single aspect of human behaviour
-So what's the point of this project i guess even if we are working with a project that has a accuracy of 70% or 60% and not 100%. With a model that exists we will at least still be able to save some form of human life and in a sense can help to pave the way for other project and would be a step into the right direction.
-
-The second limitation is that the data was limited to only Reddit and Twitter, other social media platforms data can also be introduced for eg, facebook so that the model can cater to an even wider difference of posts. Which can help to improve and enhance the model overall.
 
 ## Some key findings from the EDA that was done ##
 1. A sentiment analysis was done for Twitter and Reddit. I felt that this was vital to include as it is to ensure that the dataset that it is eventually put into modelling has a balanced sentiment and does not include any biases or skewedes. From the graphs shown, it can be seen that the sentiment for both data is rather balanced which is good.
